@@ -52,7 +52,7 @@ jobs:
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Build with Hugo
         env:
-          HUGO_CACHEDIR: "./resources"  # Fix permission error
+          HUGO_CACHEDIR: "$PWD/resources"  # Ensure absolute path
           HUGO_ENVIRONMENT: production
           TZ: America/Los_Angeles
         run: |
