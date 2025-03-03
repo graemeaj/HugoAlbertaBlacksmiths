@@ -1,11 +1,15 @@
 ---
 title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
+description: ""
+featured_image: '/images/BlacksmithShop.jpg'
 menu:
   main:
     weight: 1
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+The WCBG is committed to furthering the awareness and understanding of blacksmithing to the public.
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+The Western Canadian Blacksmiths’ Guild represents hobbyists and professional blacksmiths in Alberta.
+
+The Edmonton region is represented by the “Founding Chapter”, which meets on the second Saturday of the month (February through December). Meetings are held at the Alberta Heritage Exposition Park located 6 km west of Leduc. (see map on next page). Usually around a dozen or so members show up at about 10:30 or 11 AM at the Blacksmith’s Shop. The shop represents a typical 1940’s era blacksmith’s shop.
+
+If you are in the Saskatoon area, check with the Western Development Museum, or look for the WCBG Saskatchewan Chapter website
