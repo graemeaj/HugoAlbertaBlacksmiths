@@ -1,10 +1,45 @@
 {{ define "main" }}
+
+<main class="w-100 cf helvetica dark-gray bg-white pa3 pa4-m pa5-l mw9 center">
+  <div class="fl w-50 pr2 pr3-l mb3 mb4-l">
+    <div class="cover pv5 pv6-m pv7-l" style="background:black url(/images/shoppic4.png) center;"></div>
+  </div>
+  <div class="fl w-50 w-25-l pl2 pr2-m ph2-l mb3 mb4-l">
+    <div class="cover pv5 pv6-m pv7-l" style="background:black url(/images/striker.jpg) center;"> </div>
+  </div>
+  <div class="fl w-50 w-50 w-25-l pr2 pr0-l pl3-l mb3 mb4-l">
+      <div class="cover pv5 pv6-m pv7-l" style="background:black url(/images/flatbar.jpg) left;"> </div>
+    </div>
+  <div class="fl w-50 w-50 w-25-l pl2 pl0-l pr2-m pr4-l mb3 mb4-l">
+    <div class="cover pv5 pv6-m pv7-l" style="background:black url(/images/shoppic5.jpg) center;"> </div>
+  </div>
+  <div class="fl w-100 w-50-l pr2-l pl2-ns mb4 mb0-l mb4 outline">
+    <div class="pa4">
+      <h1 class="f4 f2-l fw7 mt0 pv3-l bb-l bb--black">#004</h1>
+      <p class="lh-copy mt2 mt3-m mt5-l f6">
+        <span class="fw9 f6 f1-l db lh-title mb3 mb4-l">“By hammer and hand all arts do stand.”</span>
+        <span class="db-ns f6 fw7 lh-solid mb3 mb0-m mb4-l">- Motto of the Worshipful Company of Blacksmiths, the ancient blacksmiths' guild of London</span> 
+        <span class="db-l measure-wide">
+        We are committed to furthering the awareness and understanding of blacksmithing to the public. We have a shop near Leduc, Alberta where members of our club can come and learn how to forge with experienced smiths.
+      </span>
+      </p>
+    </div>
+  </div>
+  <div class="cf">
+    <div class="fl w-100 w-25-l pl3-l mb3 mb4-l">
+        <div class="cover pv5 pv6-m pv7-l" style="background:black url(/images/shoppic6.jpg) center;"> </div>
+    </div>
+  </div>
+
   <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
-      {{ .Content }}
-    </article>
-    <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
-    {{ .Page.RenderString `{{< next-events-timerange >}}` }}
+    {{ .Content }}
   </article>
-  <a href="/events" class=" center link db f6 pa1 br3 bg-mid-gray white dim w4 tc">All upcoming events</a>
+  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
+  {{ .Page.RenderString `{{< next-events-timerange >}}` }}
+</article>
+<a href="/events" class=" center link db f6 pa1 br3 bg-mid-gray white dim w4 tc">All upcoming events</a>
+</main>
+
+
 {{end}}
     
