@@ -1,0 +1,30 @@
+{{ $now := now }}
+{{ $events := (where .Site.RegularPages "Section" "events") }}
+{{ $upcoming := sort (where $events "Params.start_time" ">" $now) "Params.start_time" "asc" }}
+
+<h2>Upcoming events</h2>
+
+{{ if gt (len $events) 0 }}
+<main class="mw6 center">
+        {{ range first 4 $events }}
+        <article>
+            <a class="link dt w-100 bb b--black-10 pb2 mt2 dim blue" href={{ .RelPermalink }}>
+              <div class="dtc w5">
+                <img src="/images/BlacksmithShop.jpg" class="db w-100"/>
+              </div>
+              <div class="dtc v-top pl2">
+                <h1 class="f6 f5-ns fw6 lh-title black mv0">{{ .Title }}</h1>
+                <h2 class="f6 fw4 mt2 mb0 black-60">{{ .Params.description }}</h2>
+                <dl class="mt2 f6">
+                    📅 {{ .Params.start_time | time.Format "Jan 2, 2006" }} <br>
+                    ⏰ {{ .Params.start_time | time.Format "3:04 PM" }} - {{ .Params.end_time | time.Format "3:04 PM" }} <br>
+                    📍 {{ .Params.location_name }}
+                </dl>
+              </div>
+            </a>
+          </article>
+        {{ end }}
+    </main>
+{{ else }}
+    <p>No upcoming events at the moment.</p>
+{{ end }}

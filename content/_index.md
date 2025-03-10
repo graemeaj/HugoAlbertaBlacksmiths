@@ -7,6 +7,7 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/images/BlacksmithShop.jpg'
 ---
+
 The WCBG is committed to furthering the awareness and understanding of blacksmithing to the public.
 
 The Western Canadian Blacksmiths’ Guild represents hobbyists and professional blacksmiths in Alberta.

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on WCBG</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on WCBG</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>&lt;h3 id=&#34;who-we-are&#34;&gt;Who We Are&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Western Canadian Blacksmiths&amp;rsquo; Guild&lt;/strong&gt; is a club based in Northern Alberta dedicated to preserving and promoting the art of blacksmithing.&lt;/p&gt;&#xA;&lt;h3 id=&#34;our-community-in-edmonton&#34;&gt;Our Community in Edmonton&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Founding Chapter&lt;/strong&gt; of WCBG serves the Edmonton region and meets on the &lt;strong&gt;second Saturday of each month&lt;/strong&gt; at the &lt;strong&gt;Leduc West Antique Society&lt;/strong&gt;, located &lt;strong&gt;6 km west of Leduc&lt;/strong&gt;. &lt;strong&gt;&lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;Click here for directions.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-mission-statement&#34;&gt;Our Mission Statement&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;to preserve the ancient skill of Blacksmithing as a trade, a craft, and an art form.&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;to support the continuing evolution of modern blacksmithing as a trade, craft and art form.&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;to foster interest in the products of blacksmithing.&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;to provide opportunities for interested candidates to learn from the old masters while they are still able and willing to teach.&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;to provide a method of exchange of information between those interested in Blacksmithing in Western Canada.&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;If you have any questions about our club or what we do, please &lt;strong&gt;&lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;contact us&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
