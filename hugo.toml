@@ -43,39 +43,20 @@ recent_posts_number = 3
 networks = [
   "email",
   "facebook",
-  "bluesky",
-  "linkedin"
+  "instagram"
 ]
 
 [params.ananke.social.follow]
 networks = [
   "facebook",
-  "bluesky",
-  "linkedin",
-  "wikipedia"
+  "instagram"
 ]
 
 [params.ananke.social.facebook]
-username = "patrick.kollitsch"
-# profilelink = "https://www.facebook.com/patrick.kollitsch"
+profilelink = "https://www.facebook.com/WCBGalberta"
 
-[params.ananke.social.linkedin]
-username = "patrickkollitsch"
-
-[params.ananke.social.bluesky]
-username = "kollitsch.dev"
-
-[params.ananke.social.wikipedia]
-username = "wikipedia_article"
-
-[params.ananke.social.networks.wikipedia]
-slug = "wikipedia"
-label = "Wikipedia"
-color = "#0645ad"
-profile = "https://en.wikipedia.org/wiki/%s"
-icon = "wikipedia-w"
-
-
+[params.ananke.social.instagram]
+username = "westerncanadianblacksmiths"
 
 [menu]
   [[menu.main]]
