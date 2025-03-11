@@ -2,7 +2,6 @@ title = "Notre-Dame de Paris"
 baseURL = "https://gohugo-theme-ananke.pages.dev"
 theme = "ananke"
 resourceDir = "resources"
-canonifyURLs = true
 
 defaultContentLanguage = "en"
 sectionPagesMenu = "main"
