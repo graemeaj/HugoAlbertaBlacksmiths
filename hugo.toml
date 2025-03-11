@@ -2,6 +2,7 @@ title = "Notre-Dame de Paris"
 baseURL = "https://gohugo-theme-ananke.pages.dev"
 theme = "ananke"
 resourceDir = "resources"
+canonifyURLs = true
 
 defaultContentLanguage = "en"
 sectionPagesMenu = "main"
@@ -28,7 +29,7 @@ filename = "sitemap.xml"
 [params]
 text_color = ""
 author = ""
-favicon = ""
+favicon = "favicon.ico"
 site_logo = "images/WCBGLOGOSMall.png"
 description = "The last theme you'll ever need. Maybe."
 # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
