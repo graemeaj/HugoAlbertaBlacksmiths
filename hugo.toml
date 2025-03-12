@@ -1,7 +1,17 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+baseURL = "https://graemeaj.github.io/HugoAlbertaBlacksmiths/"
 theme = "ananke"
 resourceDir = "resources"
+
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[[module.mounts]]
+source = 'images'
+target = 'static/images'
+
+canonifyURLs = true
 
 defaultContentLanguage = "en"
 sectionPagesMenu = "main"
