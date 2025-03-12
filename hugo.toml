@@ -13,6 +13,11 @@ target = 'static/images'
 
 canonifyURLs = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 defaultContentLanguage = "en"
 sectionPagesMenu = "main"
 enableRobotsTXT = true
