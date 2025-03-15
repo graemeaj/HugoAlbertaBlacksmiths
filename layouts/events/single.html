@@ -49,10 +49,10 @@
     </header>
     <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
       <div class="dtc w10">
-        <img src={{ .Params.thumbnail_image }} class="db w-100"/>
+        <img src={{ site.BaseURL }}{{ .Params.thumbnail_image }} class="db w-100"/>
       </div>
       <div class="mt2 f5">
-        📅 {{ .Params.start_time | time.Format "Jan 2, 2006" }} <br>
+        📅 {{ .Params.start_time | time.Format "Monday, Jan 2, 2006" }} <br>
         ⏰ {{ .Params.start_time | time.Format "3:04 PM" }} - {{ .Params.end_time | time.Format "3:04 PM" }} <br>
         📍 {{ .Params.location_name }}
       </div>

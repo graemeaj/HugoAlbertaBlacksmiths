@@ -1,12 +1,23 @@
 {{ $now := now }}
-{{ $events := (where .Site.RegularPages "Section" "events") }}
-{{ $upcoming := sort (where $events "Params.start_time" ">" $now) "Params.start_time" "asc" }}
+{{ $events := where .Site.RegularPages "Section" "events" }}
+
+<!-- Filter upcoming events -->
+{{ $upcoming := slice }}
+{{ range $events }}
+    {{ $startTime := time .Params.start_time }} <!-- Parse start_time as time object -->
+    {{ if gt $startTime $now }}
+        {{ $upcoming = $upcoming | append . }}
+    {{ end }}
+{{ end }}
+
+<!-- Sort upcoming events by start_time -->
+{{ $upcoming = sort $upcoming "Params.start_time" "asc" }}
 
 <h2>Upcoming events</h2>
 
-{{ if gt (len $events) 0 }}
+{{ if gt (len $upcoming) 0 }}
 <main class="mw6 center">
-        {{ range first 4 $events }}
+        {{ range first 6 $upcoming }}
         <article>
             <a class="link dt w-100 bb b--black-10 pb2 mt2 dim blue" href={{ .RelPermalink }}>
               <div class="dtc w5">

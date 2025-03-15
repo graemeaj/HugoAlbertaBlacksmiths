@@ -22,7 +22,7 @@ The membership fee is $50.00 per year, which includes fees to cover the cost of 
 
 Open the following PDF document, print it and fill out the details:
 
-**[Click here to view the application form.](/documents/membership_application.pdf)**
+**[Click here to view the application form.]({{< resource url="/documents/membership_application.pdf" >}})**
 
 Mail Membership application and cheque to:
 

@@ -1,0 +1,40 @@
+{{ define "main" }}
+  {{ $now := now }}
+  {{ $events := where .Site.RegularPages "Section" "events" }}
+
+  <!-- Filter upcoming events -->
+  {{ $upcoming := slice }}
+  {{ range $events }}
+      {{ $startTime := time .Params.start_time }} <!-- Parse start_time as time object -->
+      {{ if gt $startTime $now }}
+          {{ $upcoming = $upcoming | append . }}
+      {{ end }}
+  {{ end }}
+
+  <article class="pa3 pa4-ns nested-copy-line-height">
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
+      {{- .Content -}}
+    </section>
+    <section class="flex-ns flex-wrap justify-around mt5">
+      {{ range $upcoming }}
+      <article>
+        <a class="link dt w-100 bb b--black-10 pb2 mt2 dim blue" href={{ .RelPermalink }}>
+          <div class="dtc w5">
+            <img src={{ site.BaseURL }}{{ .Params.thumbnail_image }} class="db w-100"/>
+          </div>
+          <div class="dtc v-top pl2">
+            <h1 class="f6 f5-ns fw6 lh-title black mv0">{{ .Title }}</h1>
+            <h2 class="f6 fw4 mt2 mb0 black-60">{{ .Params.description }}</h2>
+            <dl class="mt2 f6">
+                📅 {{ .Params.start_time | time.Format "Monday, Jan 2, 2006" }} <br>
+                ⏰ {{ .Params.start_time | time.Format "3:04 PM" }} - {{ .Params.end_time | time.Format "3:04 PM" }} <br>
+                📍 {{ .Params.location_name }}
+            </dl>
+          </div>
+        </a>
+      </article>
+      {{ end }}
+    </section>
+    {{- template "_internal/pagination.html" . -}}
+  </article>
+{{ end }}
