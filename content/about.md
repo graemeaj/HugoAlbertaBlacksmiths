@@ -5,11 +5,11 @@ featured_image: '/images/BlacksmithShop.jpg'
 ---
 ### Who We Are
 
-The **Western Canadian Blacksmiths' Guild** is a club based in Northern Alberta dedicated to preserving and promoting the art of blacksmithing.
+The **Western Canadian Blacksmiths' Guild** is a society based in Northern Alberta dedicated to preserving and promoting the art of blacksmithing.
 
 ### Our Community in Edmonton  
 
-The **Founding Chapter** of WCBG serves the Edmonton region and meets on the **second Saturday of each month** at the **Leduc West Antique Society**, located **6 km west of Leduc**. **[Click here for directions.](/contact)**
+The **Founding Chapter** of WCBG serves the Edmonton region and meets on the **second Saturday of each month** at the **Leduc West Antique Society**, located **6 km west of Leduc**. **[Click here for directions.](/info/how-to-find-us/)**
 
 ## Our Mission Statement
 
@@ -21,4 +21,4 @@ The **Founding Chapter** of WCBG serves the Edmonton region and meets on the **s
 
 
 
-If you have any questions about our club or what we do, please **[contact us](/contact)**.
+If you have any questions about our society or what we do, please **[contact us](/contact)**.

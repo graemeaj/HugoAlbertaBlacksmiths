@@ -9,11 +9,53 @@
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/HugoAlbertaBlacksmiths/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>&#34;Ore-igami&#34; Bloomery Demo/LWAS Annual Exposition Event Day 1</title>
+      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-07-19-lwas-annual-expo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-07-19-lwas-annual-expo/</guid>
+      <description>&lt;p&gt;The Guild is excited to host our first bloomery demonstration at the park! A bloomery is a small earth furnace where charcoal, fire and iron ore combine to create a &amp;ldquo;bloom&amp;rdquo; of iron metal. This ancient process produces real wrought iron, just as it was made before modern furnaces existed.&lt;/p&gt;&#xA;&lt;p&gt;Join us to witness this fascinating piece of history in action and see how iron was crafted centuries ago. Don’t miss this unique opportunity to experience the roots of blacksmithing!&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Annual General Meeting</title>
       <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2026-01-10-meeting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2026-01-10-meeting/</guid>
-      <description>&lt;p&gt;Our annual general meeting. We will discuss guild matters and vote on initiatives and policies. Afterwards we usually do some smithing.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Our annual general meeting. The AGM will occur at one of the shop buildings on the LWAS site. We will discuss guild matters and vote on initiatives and policies. Afterwards we usually do some smithing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LWAS Annual Exposition Event Day 2</title>
+      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-07-20-lwas-annual-expo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-07-20-lwas-annual-expo/</guid>
+      <description>&lt;p&gt;The largest LWAS event of the year, the Expo will feature concessions, a vintage tractor pull competition, animal interaction, face painting, music events, vintage vehicle parade, demonstrations, historic buildings and displays.&lt;/p&gt;&#xA;&lt;p&gt;We will be attending to provide smithing demonstrations to the public.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LWAS Fall Harvest Show Day 1</title>
+      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-09-06-lwas-country-harvest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-09-06-lwas-country-harvest/</guid>
+      <description>&lt;p&gt;The LWAS fall harvest event features demonstrations, activities for kids and adults, historic buildings and displays, music and the provincial tractor pull championships.&lt;/p&gt;&#xA;&lt;p&gt;We will be attending to provide smithing demonstrations to the public.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LWAS Fall Harvest Show Day 2</title>
+      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-09-07-lwas-country-harvest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-09-07-lwas-country-harvest/</guid>
+      <description>&lt;p&gt;The LWAS fall harvest event features demonstrations, activities for kids and adults, historic buildings and displays, music and the provincial tractor pull championships.&lt;/p&gt;&#xA;&lt;p&gt;We will be attending to provide smithing demonstrations to the public.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LWAS Spring Fire Up Event Day 1</title>
+      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-05-24-tractor-pull/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-05-24-tractor-pull/</guid>
+      <description>&lt;p&gt;The Western Canadian Blacksmithing Guild is excited to participate in LWAS’s 35th Anniversary event at the Alberta Heritage Exposition Park! This family-friendly event features a Vintage Tractor Pull, BBQ Competition, Swap Meet, historic displays, and more.&lt;/p&gt;&#xA;&lt;p&gt;Our club will be hosting live blacksmithing demonstrations on Saturday and Sunday – a perfect chance to showcase your skills, inspire new enthusiasts, and connect with fellow members. We encourage all members to come out for the event.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LWAS Spring Fire Up Event Day 2</title>
+      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-05-25-tractor-pull/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-05-25-tractor-pull/</guid>
+      <description>&lt;p&gt;The Western Canadian Blacksmithing Guild will be participating in LWAS’s 35th Anniversary event at the Alberta Heritage Exposition Park! This family-friendly event features a vintage tractor pull, BBQ competition, swap meet, historic displays, and more.&lt;/p&gt;&#xA;&lt;p&gt;Our club will be hosting live blacksmithing demonstrations on Saturday and Sunday – a perfect chance to showcase your skills, inspire new enthusiasts, and connect with fellow members. We encourage all members to come out for the event.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Monthly Guild Meeting</title>
@@ -28,13 +70,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-04-12-meeting/</guid>
       <description>&lt;p&gt;Our monthy shop day. Bring your tools and lets make something!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Monthly Guild Meeting</title>
-      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-05-10-meeting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-05-10-meeting/</guid>
-      <description>&lt;p&gt;Our monthy shop day. This month, we are doing our annual cleaning and organinizing of the shop.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Monthly Guild Meeting</title>
@@ -86,11 +121,60 @@
       <description>&lt;p&gt;Our monthy shop day. Bring your tools and lets make something!&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Monthly Guild Meeting</title>
+      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2026-02-14-meeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2026-02-14-meeting/</guid>
+      <description>&lt;p&gt;Our monthy shop day. Bring your tools and lets make something!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monthly Guild Meeting</title>
+      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2026-03-14-meeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2026-03-14-meeting/</guid>
+      <description>&lt;p&gt;Our monthy shop day. Bring your tools and lets make something!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monthly Guild Meeting</title>
+      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2026-04-11-meeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2026-04-11-meeting/</guid>
+      <description>&lt;p&gt;Our monthy shop day. Bring your tools and lets make something!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monthly Guild Meeting</title>
+      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2026-05-09-meeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2026-05-09-meeting/</guid>
+      <description>&lt;p&gt;Our monthy shop day. Bring your tools and lets make something!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monthly Guild Meeting</title>
+      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2026-06-13-meeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2026-06-13-meeting/</guid>
+      <description>&lt;p&gt;Our monthy shop day. Bring your tools and lets make something!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monthly Guild Meeting/40th Anniversary</title>
+      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2026-07-11-meeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2026-07-11-meeting/</guid>
+      <description>&lt;p&gt;Our monthy shop day, also the 40th anniversary of the Guilds&amp;rsquo; creation to the day! Bring your tools out and let&amp;rsquo;s celebrate!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monthly Guild Meeting/Spring Cleaning</title>
+      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-05-10-meeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-05-10-meeting/</guid>
+      <description>&lt;p&gt;Our monthy shop day. This month, we are doing our annual cleaning and organinizing of the shop.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Volunteer Expo Event</title>
       <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-04-26-lwas-volunteer-expo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-04-26-lwas-volunteer-expo/</guid>
-      <description>&lt;p&gt;Our monthy shop day. Bring your tools and lets make something!&lt;/p&gt;</description>
+      <description>&lt;p&gt;This is a great opportunity to visit the park and to get a glimpse behind the scenes. Find out all about volunteering at Leduc West - whether you&amp;rsquo;re 8 or 80 there is a place for you!&#xA;The Guild will be there and provide blacksmithing demonstrations during the event.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

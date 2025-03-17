@@ -26,7 +26,7 @@ enableRobotsTXT = true
 id = ''
 
 [pagination]
-pagerSize = 16 # this is set low for demonstrating with dummy content. Set to a higher number
+pagerSize = 50 # this is set low for demonstrating with dummy content. Set to a higher number
 
 [languages.en]
 contentDir = "content"
