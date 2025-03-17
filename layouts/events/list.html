@@ -22,7 +22,7 @@
         {{ range $upcoming }}
         <article class="w-100 mw6 mb4"> <!-- Centered with max-width and margin -->
           <a class="link dt w-100 bb b--black-10 pb2 mt2 dim blue" href={{ .RelPermalink }}>
-            <div class="dtc w5">
+            <div class="dtc w-20 w-third-ns"> <!-- w-20 for desktop, w-third-ns for mobile -->
               <img src={{ site.BaseURL }}{{ .Params.thumbnail_image }} class="db w-100"/>
             </div>
             <div class="dtc v-top pl2">
