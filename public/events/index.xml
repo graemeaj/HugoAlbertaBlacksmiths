@@ -9,46 +9,88 @@
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/HugoAlbertaBlacksmiths/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Monthly Guild Meeting</title>
-      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-03-08-meeting-copy-2/</link>
+      <title>Annual General Meeting</title>
+      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2026-01-10-meeting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-03-08-meeting-copy-2/</guid>
+      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2026-01-10-meeting/</guid>
+      <description>&lt;p&gt;Our annual general meeting. We will discuss guild matters and vote on initiatives and policies. Afterwards we usually do some smithing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monthly Guild Meeting</title>
+      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-03-08-meeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-03-08-meeting/</guid>
       <description>&lt;p&gt;Our monthy shop day. Bring your tools and lets make something!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Monthly Guild Meeting</title>
-      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-03-08-meeting-copy-3/</link>
+      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-04-12-meeting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-03-08-meeting-copy-3/</guid>
-      <description>&lt;p&gt;Details about the event.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-04-12-meeting/</guid>
+      <description>&lt;p&gt;Our monthy shop day. Bring your tools and lets make something!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Monthly Guild Meeting</title>
-      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-03-08-meeting-copy-4/</link>
+      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-05-10-meeting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-03-08-meeting-copy-4/</guid>
-      <description>&lt;p&gt;Details about the event.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-05-10-meeting/</guid>
+      <description>&lt;p&gt;Our monthy shop day. This month, we are doing our annual cleaning and organinizing of the shop.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Monthly Guild Meeting</title>
-      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-03-08-meeting-copy-5/</link>
+      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-06-14-meeting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-03-08-meeting-copy-5/</guid>
-      <description>&lt;p&gt;Details about the event.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-06-14-meeting/</guid>
+      <description>&lt;p&gt;Our monthy shop day. Bring your tools and lets make something!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Monthly Guild Meeting</title>
-      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-03-08-meeting-copy-6/</link>
+      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-07-12-meeting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-03-08-meeting-copy-6/</guid>
-      <description>&lt;p&gt;Details about the event.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-07-12-meeting/</guid>
+      <description>&lt;p&gt;Our monthy shop day. Bring your tools and lets make something!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Monthly Guild Meeting</title>
-      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-03-08-meeting-copy/</link>
+      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-08-09-meeting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-03-08-meeting-copy/</guid>
-      <description>&lt;p&gt;Details about the event.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-08-09-meeting/</guid>
+      <description>&lt;p&gt;Our monthy shop day. Bring your tools and lets make something!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monthly Guild Meeting</title>
+      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-09-13-meeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-09-13-meeting/</guid>
+      <description>&lt;p&gt;Our monthy shop day. Bring your tools and lets make something!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monthly Guild Meeting</title>
+      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-10-11-meeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-10-11-meeting/</guid>
+      <description>&lt;p&gt;Our monthy shop day. Bring your tools and lets make something!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monthly Guild Meeting</title>
+      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-11-08-meeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-11-08-meeting/</guid>
+      <description>&lt;p&gt;Our monthy shop day. Bring your tools and lets make something!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monthly Guild Meeting</title>
+      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-12-13-meeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-12-13-meeting/</guid>
+      <description>&lt;p&gt;Our monthy shop day. Bring your tools and lets make something!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Volunteer Expo Event</title>
+      <link>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-04-26-lwas-volunteer-expo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HugoAlbertaBlacksmiths/events/2025-04-26-lwas-volunteer-expo/</guid>
+      <description>&lt;p&gt;Our monthy shop day. Bring your tools and lets make something!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

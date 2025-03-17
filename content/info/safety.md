@@ -5,6 +5,7 @@ description: "Blacksmithing may seem dangerous, but follow this guide and you wi
 thumbnail_image: "/images/BlacksmithShop.jpg"
 tags: []
 weight: 10
+draft: true
 ---
 
 Three hundred and forty-eight years, six months, and nineteen days ago

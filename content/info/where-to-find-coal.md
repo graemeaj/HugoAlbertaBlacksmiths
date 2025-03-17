@@ -5,6 +5,7 @@ description: "More than you ever want to know about using coal, where to find co
 thumbnail_image: "/images/coal.png"
 tags: []
 weight: 6
+draft: true
 ---
 
 Three hundred and forty-eight years, six months, and nineteen days ago

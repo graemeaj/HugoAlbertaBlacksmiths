@@ -5,6 +5,7 @@ description: "The principles and rules of our organization."
 thumbnail_image: "/images/BlacksmithShop.jpg"
 tags: []
 weight: 5
+draft: true
 ---
 
 Three hundred and forty-eight years, six months, and nineteen days ago

@@ -54,7 +54,7 @@
       <div class="mt2 f5">
         📅 {{ .Params.start_time | time.Format "Monday, Jan 2, 2006" }} <br>
         ⏰ {{ .Params.start_time | time.Format "3:04 PM" }} - {{ .Params.end_time | time.Format "3:04 PM" }} <br>
-        📍 {{ .Params.location_name }}
+        📍 <a href="{{ site.BaseURL }}{{ .Params.location_link }}">{{ .Params.location_name }}</a>
       </div>
       {{- .Content -}}
       {{- partial "tags.html" . -}}

@@ -5,6 +5,7 @@ description: "What steels to use for what purpose, and where to get it."
 thumbnail_image: "/images/steel1.jpg"
 tags: []
 weight: 8
+draft: true
 ---
 
 Three hundred and forty-eight years, six months, and nineteen days ago

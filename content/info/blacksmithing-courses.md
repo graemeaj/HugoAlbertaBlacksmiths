@@ -5,6 +5,7 @@ description: "We don't currently offer courses, but there are places and people 
 thumbnail_image: "/images/teaching.jpg"
 tags: []
 weight: 9
+draft: true
 ---
 
 Three hundred and forty-eight years, six months, and nineteen days ago

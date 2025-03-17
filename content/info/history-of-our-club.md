@@ -5,6 +5,7 @@ description: "How we got started and where we come from."
 thumbnail_image: "/images/earlyshop.jpg"
 tags: []
 weight: 4
+draft: true
 ---
 
 Three hundred and forty-eight years, six months, and nineteen days ago

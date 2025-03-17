@@ -5,6 +5,7 @@ description: "Some of the basic knowledge and technique of blacksmithing."
 thumbnail_image: "/images/forgingmacro.png"
 tags: []
 weight: 3
+draft: true
 ---
 
 Three hundred and forty-eight years, six months, and nineteen days ago
