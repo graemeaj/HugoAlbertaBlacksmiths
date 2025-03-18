@@ -2,7 +2,7 @@
 title: "\"Ore-igami\" Bloomery Demo/LWAS Annual Exposition Event Day 1"
 start_time: 2025-07-19T09:00:00
 end_time: 2025-07-19T15:00:00
-thumbnail_image: "/images/bloomery.png"
+thumbnail_image: "/images/bloomerylogo.png"
 location_name: "Leduc West Antique Society"
 location_link: "/info/how-to-find-us"
 ---
