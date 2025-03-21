@@ -1,6 +1,6 @@
 {{ define "header" }}
    {{/* We can override any block in the baseof file be defining it in the template */}}
-  {{ partial "page-header.html" . }}
+  {{ partial "site-header.html" . }}
 {{ end }}
 
 {{ define "main" }}
@@ -14,9 +14,6 @@
           */}}
       </aside>
       {{- partialCached "social/share.html" . . -}}
-      <h1 class="f1 athelas mt3 mb1">
-        {{- .Title -}}
-      </h1>
       {{ with .Params.author | default .Site.Params.author }}
       <p class="tracked">
         {{ $.Render "by" }} <strong>

@@ -6,8 +6,9 @@ thumbnail_image: "/images/BlacksmithShop.jpg"
 tags: []
 weight: 1
 ---
+# Our Leduc Shop
 
-We have our shop at the leduc west antique society, which is 6 km west of Leduc, Alberta. We are around 25 minutes from Edmonton.
+We have our shop at the Leduc West Antique Society, which is 6 km west of Leduc, Alberta. We are around 25 minutes from Edmonton.
 
 Our shop is among the main building cluster, behind the enterance train tracks.
 

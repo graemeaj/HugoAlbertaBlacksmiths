@@ -1,7 +1,8 @@
 ---
 title: "About"
 description: ""
-featured_image: '/images/BlacksmithShop.jpg'
+cascade:
+  featured_image: '/images/BlacksmithShop.jpg'
 ---
 ### Who We Are
 

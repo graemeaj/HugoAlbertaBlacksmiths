@@ -1,6 +1,5 @@
 ---
 title: "Membership"
-description: ""
 featured_image: '/images/BlacksmithShop.jpg'
 ---
 ### WCBG Membership
