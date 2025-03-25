@@ -15,7 +15,9 @@ Our shop is among the main building cluster, behind the enterance train tracks.
 The address is:
 49541 Range Rd 260, Leduc, AB T0C 0V0
 
-<div style="overflow:hidden;max-width:100%;width:500px;height:500px;"><div id="g-mapdisplay" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=53.273472,+-113.655332&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="my-codefor-googlemap" rel="nofollow" href="https://kbj9qpmy.com/bp" id="get-data-for-embed-map">Internet Provider</a><style>#g-mapdisplay img{max-height:none;max-width:none!important;background:none!important;}</style></div>
+[Google maps link](https://maps.app.goo.gl/8nP6Y7tW2LUaPNFJ6)
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2855.003969538122!2d-113.66081972301622!3d53.273392880179266!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x539ffa66f2d9f149%3A0xa89240fc5b6e896f!2sLeduc%20West%20Antique%20Society!5e1!3m2!1sen!2sca!4v1742619513528!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Getting in on shop days
 

@@ -54,24 +54,64 @@ featured_image_class = "cover bg-top"
 cover_dimming_class = "bg-black-70"
 recent_posts_number = 3
 
-[params.ananke.social.share]
-networks = [
-  "email",
-  "facebook",
-  "instagram"
-]
+[params.ananke.social]
+  icon_path = 'ananke/socials/%s.svg'
 
-[params.ananke.social.follow]
-networks = [
-  "facebook",
-  "instagram"
-]
+  [params.ananke.social.instagram]
+    username = 'westerncanadianblacksmiths'
 
-[params.ananke.social.facebook]
-profilelink = "https://www.facebook.com/WCBGalberta"
+  [params.ananke.social.facebook]
+    username = 'WCBGalberta'
 
-[params.ananke.social.instagram]
-username = "westerncanadianblacksmiths"
+  [params.ananke.social.follow]
+    networks = ['facebook', 'instagram']
+
+  [params.ananke.social.github]
+    username = 'sedward5'
+
+  [params.ananke.social.linkedin]
+    username = 'sedward5'
+
+  [[params.ananke.social.networks]]
+    color = '#1185fe'
+    icon = 'bluesky'
+    label = 'Bluesky'
+    link = 'https://bsky.app/intent/compose'
+    profile = 'https://bsky.app/profile/%s'
+    slug = 'bluesky'
+
+    [params.ananke.social.networks.particles]
+      text = 'permalink'
+
+  [[params.ananke.social.networks]]
+    icon = 'envelope'
+    label = 'Email'
+    link = 'mailto:'
+    slug = 'email'
+
+    [params.ananke.social.networks.particles]
+      body = 'permalink'
+      subject = 'title'
+
+  [[params.ananke.social.networks]]
+    color = '#3b5998'
+    icon = 'facebook'
+    label = 'Facebook'
+    link = 'https://facebook.com/sharer/sharer.php'
+    profile = 'https://www.facebook.com/%s'
+    slug = 'facebook'
+
+    [params.ananke.social.networks.particles]
+      u = 'permalink'
+
+  [[params.ananke.social.networks]]
+    color = '#e1306c'
+    icon = 'instagram'
+    label = 'Instagram'
+    profile = 'https://www.instagram.com/%s/'
+    slug = 'instagram'
+
+
 
 [menu]
   [[menu.main]]

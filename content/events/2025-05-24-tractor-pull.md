@@ -6,7 +6,7 @@ thumbnail_image: "/images/fireup.png"
 location_name: "Leduc West Antique Society"
 location_link: "/info/how-to-find-us"
 ---
-The Western Canadian Blacksmithing Guild is excited to participate in LWAS’s 35th Anniversary event at the Alberta Heritage Exposition Park! This family-friendly event features a Vintage Tractor Pull, BBQ Competition, Swap Meet, historic displays, and more.
+The Western Canadian Blacksmithing Guild will be participating in LWAS’s 35th Anniversary event at the Alberta Heritage Exposition Park! This family-friendly event features a Vintage Tractor Pull, BBQ Competition, Swap Meet, historic displays, and more.
 
 Our club will be hosting live blacksmithing demonstrations on Saturday and Sunday – a perfect chance to showcase your skills, inspire new enthusiasts, and connect with fellow members. We encourage all members to come out for the event.
 
