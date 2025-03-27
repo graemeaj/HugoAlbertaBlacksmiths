@@ -31,9 +31,8 @@ To have a successful and safe forging session, be sure to bring the following it
 - Cotton or leather clothing (avoid synthetic materials)
 - Closed-toe, non-slip footwear (steel-toed boots recommended)
 
-### Tools & Materials (if you have them)
+### Tools (if you have them)
 - A hammer (a 2-3 lb cross-peen or ball-peen hammer is ideal)
-- A piece of mild steel (¼" or ⅜" round or square stock is great for beginners)
 
 ### Other Helpful Items
 - Notebook and pencil for sketching designs and taking notes

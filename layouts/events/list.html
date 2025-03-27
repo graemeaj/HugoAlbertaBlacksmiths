@@ -13,7 +13,7 @@
 
     <!-- Sort upcoming events by start_time in ascending order -->
     {{ $upcoming = sort $upcoming ".Params.start_time" "asc" }}
-
+    <main class="bg-white pa3 pa4-m pa5-l mw9 center">
     <article class="pa3 pa4-ns nested-copy-line-height">
       <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
         {{- .Content -}}
@@ -40,4 +40,5 @@
       </section>
       {{- template "_internal/pagination.html" . -}}
     </article>
+    </main>
   {{ end }}

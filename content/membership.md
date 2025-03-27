@@ -8,7 +8,7 @@ The WCBG is always looking to increase our membership and get more people involv
 ### Benefits
 Members have access to the anvils, forges, tools, scrap steel and coal at the Leduc shop on our meeting days. The guild is also comprised of many enthusiasts and professional smiths that are very happy to share their knowledge and skills with other members. 
 
-Any member who brings only appropriate clothing and safety glasses can try blacksmithing at our shop. **[Learn more about what to bring to your first forging day.](/contact)** 
+Any member who brings only appropriate clothing and safety glasses can try blacksmithing at our shop. **[Learn more about what to bring to your first forging day.](/info/first-meet)** 
 
 ### Membership Expectations
 Because of our symbiotic relationship with the heritage park we reside in, members are strongly encouraged to participate in the demonstrations during some of the events held by the Leduc West Antique Society. Participation in a minimum of one Leduc West Antique Society event per year is expected of every member. **[Click here to see upcoming events.](/events)** 

@@ -1,7 +1,8 @@
-title = "Notre-Dame de Paris"
+title = "Western Canadian Blacksmiths Guild"
 baseURL = "https://graemeaj.github.io/HugoAlbertaBlacksmiths/"
 theme = "ananke"
 resourceDir = "resources"
+Description = "The place on the web where pet parents from around the world can find the perfect gifts for their furry, feathered, and finny pals of all shapes and sizes."
 
 [[module.mounts]]
 source = 'static'
