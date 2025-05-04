@@ -21,4 +21,4 @@ The address is:
 
 ## Getting in on shop days
 
-The park gates are normally locked on days without shows, but expect that one of the members will open the main front gates for you by at least 9:30am. If the gate is not open by then, please contact the group facebook chat or [contact us](/contact) to see if the meeting has been cancelled.
+The park gates are normally locked on days without shows, but expect that one of the members will open the main front gates for you by at least 10:00am. If the gate is not open by then, please contact the group facebook chat or [contact us](/contact) to see if the meeting has been cancelled.

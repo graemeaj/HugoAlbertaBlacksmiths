@@ -13,15 +13,15 @@ draft: false
 If you're new to blacksmithing, starting with a simple project is a great way to learn the basics. Here are a few beginner-friendly ideas that will help you practice hammer control, tapering, bending, and twisting:
 
 - **Leaf Keychain** – A great way to practice tapering and spreading metal.<br>
-![Leaf Keychain](/HugoAlbertaBlacksmiths/images/leaf.png)
+![Leaf Keychain](/images/leaf.png)
 - **S-Hooks** – Learn basic bending and scrolling.
-![Leaf Keychain](/HugoAlbertaBlacksmiths/images/s-hooks.png)
+![Leaf Keychain](/images/s-hooks.png)
 - **J-Hooks** – Perfect for wall-mounted hooks and getting comfortable with shaping.
-![Leaf Keychain](/HugoAlbertaBlacksmiths/images/j-hooks.png)
+![Leaf Keychain](/images/j-hooks.png)
 - **Nail** – A fundamental exercise in drawing out and tapering metal.
-![Leaf Keychain](/HugoAlbertaBlacksmiths/images/nail.png)
+![Leaf Keychain](/images/nail.png)
 - **Fire Poker** – A simple but useful tool that teaches twisting and scrolling techniques. (this is a steak turner, but it is similar to a poker)
-![Leaf Keychain](/HugoAlbertaBlacksmiths/images/poker.png)
+![Leaf Keychain](/images/poker.png)
 
 ## Things to Bring
 To have a successful and safe forging session, be sure to bring the following items:

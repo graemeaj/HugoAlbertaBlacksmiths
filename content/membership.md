@@ -30,4 +30,4 @@ Mail Membership application and cheque to:
 >Camrose, Alberta  
 >T4V 0C2  
 
-or bring your application to one of the meetings.
+The form can be emailed to albertablacksmiths@gmail.com and fees can be e-transferred to the same email adress, or bring your application to one of the meetings.
