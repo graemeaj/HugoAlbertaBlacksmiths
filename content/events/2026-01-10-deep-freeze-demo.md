@@ -1,5 +1,5 @@
 ---
-title: "Annual General Meeting"
+title: "Deep Freeze Byzantine Winter Festival Demo"
 start_time: 2026-01-17T09:00:00
 end_time: 2026-01-18T15:00:00
 thumbnail_image: "/images/deepfreeze.png"
