@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2016" height="933" viewBox="0 0 2016 933" font-family="Helvetica, Arial, sans-serif">
+  <rect width="2016" height="933" fill="#f3ece0"/>
+  <g stroke="#2b2b2b" stroke-width="10" stroke-linejoin="round" stroke-linecap="round">
+
+    <!-- Safety glasses -->
+    <g transform="translate(252 200)">
+      <path d="M-160 -50H160" stroke-width="14"/>
+      <path d="M-150 -30Q-150 -50 -130 -50H-30Q-15 -50 -15 -30V10Q-15 60 -80 60Q-150 60 -150 10Z" fill="#cfe3ea"/>
+      <path d="M150 -30Q150 -50 130 -50H30Q15 -50 15 -30V10Q15 60 80 60Q150 60 150 10Z" fill="#cfe3ea"/>
+      <path d="M-15 -35Q0 -55 15 -35" fill="none"/>
+      <path d="M-120 -25L-60 25M90 -25L130 10" stroke="#ffffff" stroke-width="8"/>
+    </g>
+
+    <!-- Cotton shirt -->
+    <g transform="translate(756 200)">
+      <path d="M-60 -115Q0 -85 60 -115L155 -70L120 0L85 -20V125H-85V-20L-120 0L-155 -70Z" fill="#ffffff"/>
+      <path d="M-60 -115Q0 -55 60 -115" fill="none"/>
+      <text y="40" text-anchor="middle" font-size="34" font-weight="700" fill="#b5502a" stroke="none">COTTON</text>
+    </g>
+
+    <!-- Steel-toe boot -->
+    <g transform="translate(1260 200)">
+      <path d="M-110 -125H-10V-15Q40 -15 90 5Q150 28 150 70V90H-120V70Q-120 40 -110 20Z" fill="#8a5a33"/>
+      <path d="M80 2Q150 28 150 70V90H70Z" fill="#a7afb4"/>
+      <path d="M-125 90H155V118H-125Z" fill="#2b2b2b"/>
+      <path d="M-30 -95L-10 -85M-30 -65L-10 -55M-30 -35L-10 -25" stroke="#e8dcc0" stroke-width="8"/>
+    </g>
+
+    <!-- Hammer -->
+    <g transform="translate(1764 215) rotate(-28)">
+      <rect x="-20" y="-45" width="40" height="200" rx="14" fill="#c9965c"/>
+      <path d="M-105 -115H105V-45H-105Z" fill="#6d7378"/>
+      <path d="M105 -115L165 -84V-76L105 -45Z" fill="#6d7378"/>
+      <path d="M-105 -115H-120V-45H-105" fill="#6d7378"/>
+    </g>
+
+    <!-- Notebook & pencil -->
+    <g transform="translate(232 665)">
+      <rect x="-110" y="-125" width="200" height="250" rx="10" fill="#e6dcc4"/>
+      <path d="M-70 -70H60M-70 -30H60M-70 10H60M-70 50H60" stroke="#b9ab8e" stroke-width="6"/>
+      <circle cx="-110" cy="-95" r="12" fill="#f3ece0"/>
+      <circle cx="-110" cy="-45" r="12" fill="#f3ece0"/>
+      <circle cx="-110" cy="5" r="12" fill="#f3ece0"/>
+      <circle cx="-110" cy="55" r="12" fill="#f3ece0"/>
+      <circle cx="-110" cy="100" r="12" fill="#f3ece0"/>
+      <g transform="translate(150 0) rotate(18)">
+        <path d="M-15 -125H15V80H-15Z" fill="#e8b23a"/>
+        <path d="M-15 -145H15V-125H-15Z" fill="#d98a8a"/>
+        <path d="M-15 80H15L0 120Z" fill="#e7c9a0"/>
+      </g>
+    </g>
+
+    <!-- Water bottle -->
+    <g transform="translate(756 675)">
+      <rect x="-40" y="-150" width="80" height="38" rx="8" fill="#2b2b2b"/>
+      <rect x="-30" y="-112" width="60" height="32" fill="#4a7391"/>
+      <rect x="-60" y="-80" width="120" height="210" rx="32" fill="#5d8fb0"/>
+      <path d="M-60 -5H60V45H-60Z" fill="#dce8ef"/>
+    </g>
+
+    <!-- Lunch pail -->
+    <g transform="translate(1260 690)">
+      <path d="M-70 -72V-110Q-70 -128 -52 -128H52Q70 -128 70 -110V-72" fill="none" stroke-width="14"/>
+      <rect x="-140" y="-45" width="280" height="160" rx="16" fill="#b5502a"/>
+      <rect x="-152" y="-75" width="304" height="42" rx="12" fill="#8f3e20"/>
+      <rect x="-18" y="-40" width="36" height="34" rx="4" fill="#d9cfb8"/>
+    </g>
+
+    <!-- Good attitude -->
+    <g transform="translate(1764 670)">
+      <circle r="115" fill="#e8b23a"/>
+      <circle cx="-40" cy="-30" r="12" fill="#2b2b2b"/>
+      <circle cx="40" cy="-30" r="12" fill="#2b2b2b"/>
+      <path d="M-60 25Q0 85 60 25" fill="none" stroke-width="12"/>
+    </g>
+  </g>
+
+  <g font-size="46" font-weight="700" fill="#2b2b2b" text-anchor="middle">
+    <text x="252" y="395">Safety glasses</text>
+    <text x="756" y="395">Cotton clothing</text>
+    <text x="1260" y="395">Steel-toe boots</text>
+    <text x="1764" y="395">Hammer</text>
+    <text x="252" y="880">Notebook &amp; pencil</text>
+    <text x="756" y="880">Water</text>
+    <text x="1260" y="880">Lunch</text>
+    <text x="1764" y="880">Good attitude</text>
+  </g>
+</svg>

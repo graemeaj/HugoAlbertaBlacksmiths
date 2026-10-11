@@ -21,13 +21,13 @@
         <article class="w-100 mw8 mb4"> <!-- Centered with max-width and margin -->
           <a class="link dt w-100 bb b--black-10 pb4 mt2 dim blue" href={{ .RelPermalink }}>
             <div class="dtc w-40 w-50-ns pr3"> <!-- w-20 for desktop, w-third-ns for mobile -->
-              <img src={{ site.BaseURL }}{{ .Params.thumbnail_image }} class="db w-100"/>
+              <img src={{ site.BaseURL }}{{ .Params.thumbnail_image }} class="db w-100" style="aspect-ratio: 2016 / 933; object-fit: cover;"/>
             </div>
             <div class="dtc v-top pl2">
               <h1 class="f6 f5-ns fw6 lh-title black mv0">{{ .Title }}</h1>
               <h2 class="f6 fw4 mt2 mb0 black-60">{{ .Params.description }}</h2>
               <dl class="mt2 f7">
-                  📅 {{ .Params.start_time | time.Format "Monday, Jan 2, 2006" }} <br>
+                  📅 {{ partial "event-date.html" . }} <br>
                   ⏰ {{ .Params.start_time | time.Format "3:04 PM" }} - {{ .Params.end_time | time.Format "3:04 PM" }} <br>
                   📍 {{ .Params.location_name }}
               </dl>

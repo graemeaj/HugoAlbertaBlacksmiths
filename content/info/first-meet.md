@@ -2,7 +2,7 @@
 title: "What to bring to your first meet"
 date: 2017-04-09T10:58:08-04:00
 description: "A guide on what new members should bring to a blacksmithing meet at our club."
-thumbnail_image: "/images/BlacksmithShop.jpg"
+thumbnail_image: "/images/first-meet.jpg"
 tags: []
 weight: 2
 draft: false
@@ -25,6 +25,8 @@ If you're new to blacksmithing, starting with a simple project is a great way to
 
 ## Things to Bring
 To have a successful and safe forging session, be sure to bring the following items:
+
+![Cotton work shirt, steel-toe boots, safety glasses and a hammer laid out on a workbench](/images/first-meet-gear.webp)
 
 ### Personal Safety Gear
 - Safety glasses

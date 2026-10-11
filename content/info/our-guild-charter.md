@@ -1,83 +1,57 @@
 ---
-title: "Our Guild charter"
-date: 2017-04-09T10:58:08-04:00
-description: "The principles and rules of our organization."
-thumbnail_image: "/images/BlacksmithShop.jpg"
+title: "Our Guild Charter"
+date: 2025-12-11T12:00:00-07:00
+description: "The rules our guild runs by: membership, the board, elections, meetings and voting, in plain language."
+thumbnail_image: "/images/WCBGLOGO-wide.png"
 tags: []
 weight: 5
-draft: true
+draft: false
 ---
+**[Read the full Guild Charter (PDF, updated December 11, 2025).]({{< resource url="/documents/WCBG_Charter_Dec2025.pdf" >}})**
 
-Three hundred and forty-eight years, six months, and nineteen days ago
-to-day, the Parisians awoke to the sound of all the bells in the triple
-circuit of the city, the university, and the town ringing a full peal.
+The charter is the set of rules the Western Canadian Blacksmiths Guild runs by. Most members will never need to read the whole thing, so here's a quick rundown of what's in it. If there's ever a question, the PDF above is the official version.
 
-The sixth of January, 1482, is not, however, a day of which history has
-preserved the memory. There was nothing notable in the event which thus
-set the bells and the bourgeois of Paris in a ferment from early morning.
-It was neither an assault by the Picards nor the Burgundians, nor a hunt
-led along in procession, nor a revolt of scholars in the town of Laas, nor
-an entry of “our much dread lord, monsieur the king,” nor even a pretty
-hanging of male and female thieves by the courts of Paris. Neither was it
-the arrival, so frequent in the fifteenth century, of some plumed and
-bedizened embassy. It was barely two days since the last cavalcade of that
-nature, that of the Flemish ambassadors charged with concluding the
-marriage between the dauphin and Marguerite of Flanders, had made its
-entry into Paris, to the great annoyance of M. le Cardinal de Bourbon,
-who, for the sake of pleasing the king, had been obliged to assume an
-amiable mien towards this whole rustic rabble of Flemish burgomasters, and
-to regale them at his Hôtel de Bourbon, with a very “pretty morality,
-allegorical satire, and farce,” while a driving rain drenched the
-magnificent tapestries at his door.
+# What we're here for
 
-What put the “whole population of Paris in commotion,” as Jehan de Troyes
-expresses it, on the sixth of January, was the double solemnity, united
-from time immemorial, of the Epiphany and the Feast of Fools.
+Our mission is pretty simple: keep blacksmithing alive as a trade, a craft and an art form, both the traditional side and the modern side. We want people to be able to learn from experienced smiths while they're still around and willing to teach, and we want smiths across Western Canada to have a way to share what they know.
 
-On that day, there was to be a bonfire on the Place de Grève, a maypole at
-the Chapelle de Braque, and a mystery at the Palais de Justice. It had
-been cried, to the sound of the trumpet, the preceding evening at all the
-cross roads, by the provost’s men, clad in handsome, short, sleeveless
-coats of violet camelot, with large white crosses upon their breasts.
+# Membership
 
-So the crowd of citizens, male and female, having closed their houses and
-shops, thronged from every direction, at early morn, towards some one of
-the three spots designated.
+Anyone who supports that mission can join. The board sets the yearly dues. If you want to leave, just let the secretary know in writing, but fees aren't refunded after you've been a member for six months.
 
-Each had made his choice; one, the bonfire; another, the maypole; another,
-the mystery play. It must be stated, in honor of the good sense of the
-loungers of Paris, that the greater part of this crowd directed their
-steps towards the bonfire, which was quite in season, or towards the
-mystery play, which was to be presented in the grand hall of the Palais de
-Justice (the courts of law), which was well roofed and walled; and that
-the curious left the poor, scantily flowered maypole to shiver all alone
-beneath the sky of January, in the cemetery of the Chapel of Braque.
+If your dues aren't paid within three months after the end of the year, your membership is suspended until you catch up.
 
-The populace thronged the avenues of the law courts in particular, because
-they knew that the Flemish ambassadors, who had arrived two days
-previously, intended to be present at the representation of the mystery,
-and at the election of the Pope of the Fools, which was also to take place
-in the grand hall.
+A member can be expelled by a two-thirds vote of the members at a meeting. That vote happens at the meeting after the motion is made, the member gets written notice within two business days, and they get a chance to speak before the vote. Someone who's been expelled has to wait at least a year before they can ask to come back, and that also takes a two-thirds vote.
 
-It was no easy matter on that day, to force one’s way into that grand
-hall, although it was then reputed to be the largest covered enclosure in
-the world (it is true that Sauval had not yet measured the grand hall of
-the Château of Montargis). The palace place, encumbered with people,
-offered to the curious gazers at the windows the aspect of a sea; into
-which five or six streets, like so many mouths of rivers, discharged every
-moment fresh floods of heads. The waves of this crowd, augmented
-incessantly, dashed against the angles of the houses which projected here
-and there, like so many promontories, into the irregular basin of the
-place. In the centre of the lofty Gothic* façade of the palace, the grand
-staircase, incessantly ascended and descended by a double current, which,
-after parting on the intermediate landing-place, flowed in broad waves
-along its lateral slopes,—the grand staircase, I say, trickled
-incessantly into the place, like a cascade into a lake. The cries, the
-laughter, the trampling of those thousands of feet, produced a great noise
-and a great clamor. From time to time, this noise and clamor redoubled;
-the current which drove the crowd towards the grand staircase flowed
-backwards, became troubled, formed whirlpools. This was produced by the
-buffet of an archer, or the horse of one of the provost’s sergeants, which
-kicked to restore order; an admirable tradition which the provostship has
-bequeathed to the constablery, the constablery to the _maréchaussée_,
-the _maréchaussée_ to our _gendarmeri_ of Paris.
+# The board
+
+The guild is run by a volunteer board: a President, a Vice-President, a Secretary/Treasurer, and two or more Directors at Large who take on whatever jobs the board needs done, like special projects or committees.
+
+- The **President** chairs meetings and sits on every committee.
+- The **Vice-President** steps in when the President can't.
+- The **Secretary/Treasurer** keeps the minutes, the member list and the correspondence, sends out meeting notices, collects dues, handles the bank account and reports on the finances at the AGM.
+
+Board members have to make it to at least four meetings a year, including the AGM. If they don't, the Chair puts forward a motion to remove them, and it goes to a vote at the AGM.
+
+# Elections
+
+Elections happen at the Annual General Meeting. Positions are staggered: odd-numbered positions are elected in odd years and even-numbered ones in even years, so the whole board never turns over at once. If a spot opens up partway through a term, it's filled at the next meeting, as long as the meeting notice says there will be an election. Any member in good standing can run for any position.
+
+# Meetings and voting
+
+- The **AGM** is held on or before the second Saturday in January, weather permitting. If it gets snowed out, it moves to the February meeting. That's where the Secretary/Treasurer presents their reports and elections are held.
+- Other meetings can be called by the board with a week's written notice by email or phone. If a third of the members sign a petition, the President or Secretary has to call a special meeting.
+- **Quorum** is five members in good standing, and at least one of them can't be on the board.
+- Every member in good standing can vote. Voting is in person only, with no proxies, and if there's a tie the Chair breaks it.
+
+# Money
+
+The books are audited every year, either by an accountant or by two members picked at the AGM, and the results are presented at the AGM. Any member can look at the books at the AGM or by arranging a time with the Secretary/Treasurer. Nobody gets paid for their work with the guild unless it's approved at a meeting. The guild can borrow money if it needs to, but only with the members' approval.
+
+# Changing the rules
+
+Anyone can propose a change to the charter at a general meeting. If 75% of the members there vote for it, it takes effect right away and then goes to the next AGM to be made official. The board can also make day-to-day regulations (like our [shop rules](/info/shop-rules/)) by a simple majority of the board, and has to make them available to all members.
+
+# Everything else
+
+New chapters of the guild can be set up with the board's approval. If the guild ever shuts down, everything it owns goes to a similar non-profit, chosen by a majority vote of the members at a meeting called for that purpose.

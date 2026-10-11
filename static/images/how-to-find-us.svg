@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2016" height="933" viewBox="0 0 2016 933" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <pattern id="fields" width="168" height="168" patternUnits="userSpaceOnUse">
+      <path d="M168 0H0V168" fill="none" stroke="#e0d5bf" stroke-width="4"/>
+    </pattern>
+  </defs>
+  <rect width="2016" height="933" fill="#efe8da"/>
+  <rect width="2016" height="933" fill="url(#fields)"/>
+
+  <!-- Leduc -->
+  <rect x="1480" y="500" width="400" height="320" rx="24" fill="#d8ccb3"/>
+  <text x="1680" y="690" text-anchor="middle" font-size="80" font-weight="700" fill="#5a4e3c" letter-spacing="6">LEDUC</text>
+
+  <!-- Range Rd 260 -->
+  <path d="M760 640V320" stroke="#9c8f78" stroke-width="30"/>
+  <path d="M760 640V320" stroke="#ffffff" stroke-width="20"/>
+  <text transform="translate(812 600) rotate(-90)" font-size="40" font-weight="700" fill="#7a6d56">RANGE RD 260</text>
+
+  <!-- Hwy 39 -->
+  <path d="M0 640H1450" stroke="#9c8f78" stroke-width="44"/>
+  <path d="M0 640H1450" stroke="#ffffff" stroke-width="30"/>
+
+  <!-- Hwy 2 (QEII) -->
+  <path d="M1450 0V933" stroke="#9c8f78" stroke-width="56"/>
+  <path d="M1450 0V933" stroke="#f3cf6f" stroke-width="40"/>
+
+  <!-- Highway shields -->
+  <g font-weight="700" text-anchor="middle">
+    <rect x="1405" y="290" width="90" height="80" rx="14" fill="#ffffff" stroke="#2b2b2b" stroke-width="6"/>
+    <text x="1450" y="350" font-size="56" fill="#2b2b2b">2</text>
+    <rect x="320" y="600" width="120" height="80" rx="14" fill="#ffffff" stroke="#2b2b2b" stroke-width="6"/>
+    <text x="380" y="660" font-size="56" fill="#2b2b2b">39</text>
+  </g>
+
+  <!-- Edmonton -->
+  <path d="M1450 22L1490 92H1410Z" fill="#2b2b2b"/>
+  <text x="1520" y="80" font-size="64" font-weight="700" fill="#2b2b2b">EDMONTON</text>
+  <text x="1520" y="150" font-size="48" fill="#5a4e3c">about 25 min</text>
+
+  <!-- 6 km -->
+  <g stroke="#2b2b2b" stroke-width="6">
+    <path d="M760 720H1450"/>
+    <path d="M760 698V742M1450 698V742"/>
+  </g>
+  <text x="1105" y="800" text-anchor="middle" font-size="64" font-weight="700" fill="#2b2b2b">6 km</text>
+
+  <!-- Shop pin -->
+  <path d="M760 330C700 255 688 222 688 190A72 72 0 1 1 832 190C832 222 820 255 760 330Z" fill="#b5502a" stroke="#ffffff" stroke-width="8"/>
+  <circle cx="760" cy="190" r="26" fill="#ffffff"/>
+  <g text-anchor="end" stroke="#efe8da" stroke-width="14" paint-order="stroke" stroke-linejoin="round">
+    <text x="650" y="150" font-size="68" font-weight="700" fill="#2b2b2b">Leduc West</text>
+    <text x="650" y="228" font-size="68" font-weight="700" fill="#2b2b2b">Antique Society</text>
+    <text x="650" y="300" font-size="54" font-weight="700" fill="#b5502a">Blacksmith Shop</text>
+  </g>
+
+  <!-- North arrow -->
+  <g transform="translate(110 790)">
+    <path d="M0 -60L30 40L0 20L-30 40Z" fill="#2b2b2b"/>
+    <text y="100" text-anchor="middle" font-size="48" font-weight="700" fill="#2b2b2b">N</text>
+  </g>
+</svg>

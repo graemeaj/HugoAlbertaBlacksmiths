@@ -35,7 +35,8 @@
   <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
     {{ .Content }}
   </article>
-  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
+  <style>@media screen and (min-width: 60em) { .home-events { max-width: 42.5em; } }</style>
+  <article class="home-events cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
   {{ .Page.RenderString `{{< next-events-timerange >}}` }}
 </article>
 <a href="{{ site.BaseURL }}events" class=" center link db f6 pa1 br3 bg-mid-gray white dim w4 tc">All upcoming events</a>

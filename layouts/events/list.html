@@ -18,18 +18,19 @@
       <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
         {{- .Content -}}
       </section>
+      <style>@media screen and (min-width: 60em) { .events-item { max-width: 45.125rem; } .events-thumb { width: 50%; padding-right: 1rem; } }</style>
       <section class="flex flex-column items-center mt5"> <!-- Centered and stacked vertically -->
-        {{ range $upcoming }}
-        <article class="w-100 mw6 mb4"> <!-- Centered with max-width and margin -->
+        {{ range (.Paginate $upcoming 20).Pages }}
+        <article class="events-item w-100 mw6 mb4"> <!-- Centered with max-width and margin -->
           <a class="link dt w-100 bb b--black-10 pb2 mt2 dim blue" href={{ .RelPermalink }}>
-            <div class="dtc w-20 w-third-ns"> <!-- w-20 for desktop, w-third-ns for mobile -->
-              <img src={{ site.BaseURL }}{{ .Params.thumbnail_image }} class="db w-100"/>
+            <div class="events-thumb dtc w-20 w-third-ns"> <!-- w-20 for desktop, w-third-ns for mobile, half width on large screens -->
+              <img src={{ site.BaseURL }}{{ .Params.thumbnail_image }} class="db w-100" style="aspect-ratio: 2016 / 933; object-fit: cover;"/>
             </div>
             <div class="dtc v-top pl2">
               <h1 class="f6 f5-ns fw6 lh-title black mv0">{{ .Title }}</h1>
               <h2 class="f6 fw4 mt2 mb0 black-60">{{ .Params.description }}</h2>
               <dl class="mt2 f6">
-                  📅 {{ .Params.start_time | time.Format "Monday, Jan 2, 2006" }} <br>
+                  📅 {{ partial "event-date.html" . }} <br>
                   ⏰ {{ .Params.start_time | time.Format "3:04 PM" }} - {{ .Params.end_time | time.Format "3:04 PM" }} <br>
                   📍 {{ .Params.location_name }}
               </dl>

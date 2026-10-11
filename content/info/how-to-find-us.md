@@ -2,7 +2,7 @@
 title: "How to find our shop"
 date: 2017-04-09T10:58:08-04:00
 description: "How to find our shop and access the park."
-thumbnail_image: "/images/BlacksmithShop.jpg"
+thumbnail_image: "/images/how-to-find-us.svg"
 tags: []
 weight: 1
 ---

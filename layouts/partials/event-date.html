@@ -1,0 +1,10 @@
+{{- /* Event date line; shows a hyphenated range when the event spans multiple days. Expects the event page as context. */ -}}
+{{- $start := time .Params.start_time -}}
+{{- $end := time (.Params.end_time | default .Params.start_time) -}}
+{{- if eq ($start.Format "2006-01-02") ($end.Format "2006-01-02") -}}
+{{ $start | time.Format "Monday, Jan 2, 2006" }}
+{{- else if eq $start.Year $end.Year -}}
+{{ $start | time.Format "Monday, Jan 2" }} - {{ $end | time.Format "Monday, Jan 2, 2006" }}
+{{- else -}}
+{{ $start | time.Format "Monday, Jan 2, 2006" }} - {{ $end | time.Format "Monday, Jan 2, 2006" }}
+{{- end -}}

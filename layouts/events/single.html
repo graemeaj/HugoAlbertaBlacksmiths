@@ -53,7 +53,7 @@
         <img src={{ site.BaseURL }}{{ .Params.thumbnail_image }} class="db w-100"/>
       </div>
       <div class="mt2 f5">
-        📅 {{ .Params.start_time | time.Format "Monday, Jan 2, 2006" }} <br>
+        📅 {{ partial "event-date.html" . }} <br>
         ⏰ {{ .Params.start_time | time.Format "3:04 PM" }} - {{ .Params.end_time | time.Format "3:04 PM" }} <br>
         📍 <a href="{{ site.BaseURL }}{{ .Params.location_link }}">{{ .Params.location_name }}</a>
       </div>
