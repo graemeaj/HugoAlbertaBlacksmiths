@@ -17,7 +17,7 @@ We also have a monthly video call meeting to discuss ongoing club activities and
 
 ### Membership Application
 
-The membership fee is $50.00 per year, which includes fees to cover the cost of coal and other shop supplies. Membership runs from January 1 to December 31.
+The membership fee is $70.00 per year. $50.00 of that covers the cost of coal and other shop supplies, and $20.00 is for a one-year membership with the Leduc West Antique Society (LWAS). If you're already a lifetime LWAS member, you don't need to pay the extra $20.00, so your fee is just $50.00. Membership runs from January 1 to December 31.
 
 Open the following PDF document, print it and fill out the details:
 
