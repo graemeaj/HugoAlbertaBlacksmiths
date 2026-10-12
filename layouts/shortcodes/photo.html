@@ -1,0 +1,7 @@
+{{- /* Gallery photo: {{< photo src="/images/..." caption="..." >}}. Click opens the full image. */ -}}
+{{- $src := .Get "src" -}}
+{{- $caption := .Get "caption" -}}
+<figure class="w-50 w-third-ns pa2 ma0">
+  <a href="{{ $src }}" class="gallery-photo db dim" data-caption="{{ $caption }}" style="cursor: zoom-in;"><img src="{{ $src }}" alt="{{ $caption }}" class="db w-100" style="aspect-ratio: 4 / 3; object-fit: cover;" loading="lazy"></a>
+  {{- with $caption }}<figcaption class="f6 lh-title mid-gray mt1 sans-serif">{{ . }}</figcaption>{{ end }}
+</figure>

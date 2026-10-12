@@ -12,8 +12,28 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/info/shop-rules/</loc>
+    <lastmod>2026-10-10T12:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/info/blacksmithing-courses/</loc>
+    <lastmod>2026-10-11T12:00:00-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/info/our-guild-charter/</loc>
+    <lastmod>2025-12-11T12:00:00-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/info/where-to-find-coal/</loc>
+    <lastmod>2011-01-01T12:00:00-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <lastmod>2026-10-11T12:00:00-06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -159,10 +179,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/events/2027-01-09-meeting/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/events/2027-02-13-meeting/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -204,10 +220,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/events/2027-12-11-meeting/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/events/2028-01-08-meeting/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -255,10 +267,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/events/2029-01-13-meeting/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/events/2029-02-10-meeting/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -300,10 +308,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/events/2029-12-08-meeting/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/events/2030-01-12-meeting/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -375,7 +379,19 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/events/2027-01-12-wcbg-agm/</loc>
+    <loc>http://localhost:1313/events/2027-01-09-wcbg-agm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/events/2028-01-08-wcbg-agm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/events/2029-01-13-wcbg-agm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/events/2030-01-12-wcbg-agm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

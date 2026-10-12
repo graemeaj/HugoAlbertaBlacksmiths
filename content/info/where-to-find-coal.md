@@ -1,83 +1,61 @@
 ---
 title: "Coal and where to find it"
-date: 2017-04-09T10:58:08-04:00
-description: "More than you ever want to know about using coal, where to find coal, and different coal types."
+date: 2011-01-01T12:00:00-07:00
+description: "What's actually in coal, which kind is good for smithing, and why the good stuff is so hard to get in Alberta."
 thumbnail_image: "/images/coal.png"
 tags: []
 weight: 6
-draft: true
+draft: false
 ---
+*This article was written by longtime guild member Don Sinclaire for our original website in 2011. It's reproduced here with light edits.*
 
-Three hundred and forty-eight years, six months, and nineteen days ago
-to-day, the Parisians awoke to the sound of all the bells in the triple
-circuit of the city, the university, and the town ringing a full peal.
+# What's in coal
 
-The sixth of January, 1482, is not, however, a day of which history has
-preserved the memory. There was nothing notable in the event which thus
-set the bells and the bourgeois of Paris in a ferment from early morning.
-It was neither an assault by the Picards nor the Burgundians, nor a hunt
-led along in procession, nor a revolt of scholars in the town of Laas, nor
-an entry of “our much dread lord, monsieur the king,” nor even a pretty
-hanging of male and female thieves by the courts of Paris. Neither was it
-the arrival, so frequent in the fifteenth century, of some plumed and
-bedizened embassy. It was barely two days since the last cavalcade of that
-nature, that of the Flemish ambassadors charged with concluding the
-marriage between the dauphin and Marguerite of Flanders, had made its
-entry into Paris, to the great annoyance of M. le Cardinal de Bourbon,
-who, for the sake of pleasing the king, had been obliged to assume an
-amiable mien towards this whole rustic rabble of Flemish burgomasters, and
-to regale them at his Hôtel de Bourbon, with a very “pretty morality,
-allegorical satire, and farce,” while a driving rain drenched the
-magnificent tapestries at his door.
+The graph below shows the percentages of the main components of coal. Coal ranges from anthracite on the left to sub-bituminous and lignite on the right. I created the graph based on samples described in Alberta Research Council reports.
 
-What put the “whole population of Paris in commotion,” as Jehan de Troyes
-expresses it, on the sixth of January, was the double solemnity, united
-from time immemorial, of the Epiphany and the Feast of Fools.
+<style>@media screen and (min-width: 60em) { .coal-chart { width: 150%; max-width: none; } }</style>
+<a href="/images/coal-composition-chart.jpg"><img class="coal-chart" src="/images/coal-composition-chart.jpg" alt="Chart of Alberta coal samples showing BTU per pound, the percentage of moisture, ash, fixed carbon and volatiles, coal classification, uses and source areas"></a>
 
-On that day, there was to be a bonfire on the Place de Grève, a maypole at
-the Chapelle de Braque, and a mystery at the Palais de Justice. It had
-been cried, to the sound of the trumpet, the preceding evening at all the
-cross roads, by the provost’s men, clad in handsome, short, sleeveless
-coats of violet camelot, with large white crosses upon their breasts.
+*Click the chart to open it full size.*
 
-So the crowd of citizens, male and female, having closed their houses and
-shops, thronged from every direction, at early morn, towards some one of
-the three spots designated.
+The main components are:
 
-Each had made his choice; one, the bonfire; another, the maypole; another,
-the mystery play. It must be stated, in honor of the good sense of the
-loungers of Paris, that the greater part of this crowd directed their
-steps towards the bonfire, which was quite in season, or towards the
-mystery play, which was to be presented in the grand hall of the Palais de
-Justice (the courts of law), which was well roofed and walled; and that
-the curious left the poor, scantily flowered maypole to shiver all alone
-beneath the sky of January, in the cemetery of the Chapel of Braque.
+1. **Sulphur:** 0.2–0.8%. It contributes to the smell of the coal fire, but is too small to show on the graph.
+2. **Ash:** typically 4 to 10%. It forms the clinker in the bottom of the fire pot. How bad the clinker gets depends not only on the percentage of ash, but also on how much coal you have to feed into the fire to get the heat you need.
+3. **Moisture:** this is the natural water in the coal as it's found in the seam, not moisture added or removed later. Moisture content isn't a big issue for smithing, since we water the coal down anyway, but it can be an indirect indicator of the volatiles in the coal and the grade of coal. High moisture gives coal a "poor storage" rating, since the lumps start to fall apart as it dries out, which also doesn't matter to us. The only downside of moisture in coal is that you're paying for it. A 400 pound barrel of domestic coal will have 100 pounds of water in it.
 
-The populace thronged the avenues of the law courts in particular, because
-they knew that the Flemish ambassadors, who had arrived two days
-previously, intended to be present at the representation of the mystery,
-and at the election of the Pope of the Fools, which was also to take place
-in the grand hall.
+The remaining components are the ones that contribute to the heat output of the coal:
 
-It was no easy matter on that day, to force one’s way into that grand
-hall, although it was then reputed to be the largest covered enclosure in
-the world (it is true that Sauval had not yet measured the grand hall of
-the Château of Montargis). The palace place, encumbered with people,
-offered to the curious gazers at the windows the aspect of a sea; into
-which five or six streets, like so many mouths of rivers, discharged every
-moment fresh floods of heads. The waves of this crowd, augmented
-incessantly, dashed against the angles of the houses which projected here
-and there, like so many promontories, into the irregular basin of the
-place. In the centre of the lofty Gothic* façade of the palace, the grand
-staircase, incessantly ascended and descended by a double current, which,
-after parting on the intermediate landing-place, flowed in broad waves
-along its lateral slopes,—the grand staircase, I say, trickled
-incessantly into the place, like a cascade into a lake. The cries, the
-laughter, the trampling of those thousands of feet, produced a great noise
-and a great clamor. From time to time, this noise and clamor redoubled;
-the current which drove the crowd towards the grand staircase flowed
-backwards, became troubled, formed whirlpools. This was produced by the
-buffet of an archer, or the horse of one of the provost’s sergeants, which
-kicked to restore order; an admirable tradition which the provostship has
-bequeathed to the constablery, the constablery to the _maréchaussée_,
-the _maréchaussée_ to our _gendarmeri_ of Paris.
+4. **Fixed carbon:** pure carbon, which we burn as coke in the fire pot. This is our main source of heat.
+5. **Volatiles:** gases, oils and tar in the coal. These ignite at a lower temperature and help keep the fire burning. Anthracite, for example, has very little volatile material and will go out as soon as you stop the blower. In a power plant the volatiles add to the total heat output of the coal, but for smithing we burn off the volatiles in the coking process, and that heat goes up the chimney. Most of the heat we actually use comes from the fixed carbon.
+
+# What kind of coal we want
+
+For smithing we want **low to medium volatile bituminous coal**. That gives enough volatile material to keep the fire burning, make the coal "sticky" so it forms lumps of coke, and make the coke porous. High volatile bituminous coal won't coke, and even though it may have a high BTU per pound, a lot of that heat is lost up the chimney.
+
+# Where it is in Alberta
+
+In Alberta, anthracite is found in the Cascade area near Banff. Low to medium volatile bituminous coal is found around Grande Cache, Cadomin (the Luscar mine) and the Crowsnest Pass. These areas produce "metallurgical coal," which is what we want. Unfortunately, all of it is shipped out in unit trains, and they won't sell it in small, truckload-sized quantities.
+
+Even at Robb, which is fairly close to Cadomin, the coal is high volatile bituminous and sub-bituminous, and only suitable for heating. The Alberta Research Council maps show that as you go east of the Rockies, the moisture content (and volatiles) goes up quickly and the BTU per pound drops. There were no reports of any "metallurgical" or "smithy" coal anywhere on the Prairies.
+
+The maps below are a bit hard to read, but they show how the coal grades fall off as you go east of the Rockies.
+
+![1925 chart showing the calorific value of Alberta coal across the province](/images/coal-map-calorific-value-1925.jpg)
+*Calorific value of Alberta coal. From the Scientific and Industrial Research Council of Alberta, 1925.*
+
+![1925 chart showing the percentage of moisture in Alberta coal as mined](/images/coal-map-moisture-1925.jpg)
+*Percentage of moisture in Alberta coal as mined. From the Scientific and Industrial Research Council of Alberta, 1925.*
+
+![Table classifying coals by rank, from anthracitic to lignitic, by fixed carbon and BTU](/images/coal-classification-table-1944.jpg)
+*Classification of coals by rank. From the Research Council of Alberta, 1944.*
+
+# Sources
+
+- *Analysis of Alberta Coal*, Report #14, Scientific and Industrial Research Council of Alberta, 1925.
+- Edgar Stansfield and W. Albert Lang, *Coals of Alberta: Their Occurrence, Analysis and Utilization*, Research Council of Alberta Report No. 35, 1944.
+- *Catalogue of Coal Mines of the Alberta Plains*, Research Council of Alberta, 1964.
+- D. Nikols and S. Treasure, *Coal Quality Variation in Alberta Tertiary Coals*, 1990.
+- *2010 NI 43-101 Technical Report*, Grande Cache Coal Corporation, 2010.
+
+*Article and chart © Don Sinclaire, 2011.*

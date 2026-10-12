@@ -42,7 +42,7 @@ Things fly around at a forge. Scale (the black oxide skin on hot steel) pops off
 
 ### Natural fibre clothing
 
-Stick to natural fibres: cotton (including denim and canvas), wool, linen and hemp. Leather is great too, which is why so many smiths wear leather aprons. Synthetics like polyester, nylon, acrylic and fleece melt when a spark or a hot piece of scale lands on them, and the melted plastic sticks to your skin and keeps burning. Cotton will scorch or get a small hole in it, and wool is naturally fire resistant. Check your hoodie and base layers too. A lot of "cotton" clothing is actually a poly blend.
+Wear only natural fibres: cotton (including denim and canvas), wool, linen, leather and hemp. Synthetics like polyester, nylon, acrylic and fleece melt when a spark or a hot piece of scale lands on them, and the melted plastic sticks to your skin and keeps burning. Cotton will scorch or get a small hole in it, and wool is naturally fire resistant. Check your hoodie and base layers too. A lot of "cotton" clothing is actually a poly blend.
 
 ### Respirators
 

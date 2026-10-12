@@ -1,83 +1,98 @@
 ---
-title: "The history of our club"
-date: 2017-04-09T10:58:08-04:00
-description: "How we got started and where we come from."
+title: "Our history and photo gallery"
+date: 2011-01-01T12:00:00-07:00
+description: "A look back at the guild over the years, with photos of members, hammer-ins, demos and group projects from our original website."
 thumbnail_image: "/images/earlyshop.jpg"
 tags: []
-weight: 4
-draft: true
+weight: 7
+draft: false
 ---
+![The guild's blacksmith shop at the Leduc West Antique Society in its early days, with visitors at picnic tables out front](/images/earlyshop.jpg)
+*Our shop at the Leduc West Antique Society in its early days.*
 
-Three hundred and forty-eight years, six months, and nineteen days ago
-to-day, the Parisians awoke to the sound of all the bells in the triple
-circuit of the city, the university, and the town ringing a full peal.
+The Western Canadian Blacksmiths' Guild was started in 1986 by a group of smiths in the Edmonton area, and celebrated its 40th anniversary in 2026. This founding chapter has its shop at the Leduc West Antique Society. The shop was built as a working reconstruction of a 1940s–1950s blacksmith shop, and it's still a fully functioning forge today. It's where we meet on the second Saturday of every month and where we do most of our demos for park visitors.
 
-The sixth of January, 1482, is not, however, a day of which history has
-preserved the memory. There was nothing notable in the event which thus
-set the bells and the bourgeois of Paris in a ferment from early morning.
-It was neither an assault by the Picards nor the Burgundians, nor a hunt
-led along in procession, nor a revolt of scholars in the town of Laas, nor
-an entry of “our much dread lord, monsieur the king,” nor even a pretty
-hanging of male and female thieves by the courts of Paris. Neither was it
-the arrival, so frequent in the fifteenth century, of some plumed and
-bedizened embassy. It was barely two days since the last cavalcade of that
-nature, that of the Flemish ambassadors charged with concluding the
-marriage between the dauphin and Marguerite of Flanders, had made its
-entry into Paris, to the great annoyance of M. le Cardinal de Bourbon,
-who, for the sake of pleasing the king, had been obliged to assume an
-amiable mien towards this whole rustic rabble of Flemish burgomasters, and
-to regale them at his Hôtel de Bourbon, with a very “pretty morality,
-allegorical satire, and farce,” while a driving rain drenched the
-magnificent tapestries at his door.
+If you recognize anyone in these photos or have old photos of your own to add, [let us know](/contact). Click any photo to see it larger.
 
-What put the “whole population of Paris in commotion,” as Jehan de Troyes
-expresses it, on the sixth of January, was the double solemnity, united
-from time immemorial, of the Epiphany and the Feast of Fools.
+# Building the shop
 
-On that day, there was to be a bonfire on the Place de Grève, a maypole at
-the Chapelle de Braque, and a mystery at the Palais de Justice. It had
-been cried, to the sound of the trumpet, the preceding evening at all the
-cross roads, by the provost’s men, clad in handsome, short, sleeveless
-coats of violet camelot, with large white crosses upon their breasts.
+Guild members built the shop themselves on the Leduc West grounds, from framing the walls to putting on the siding. These are the original building plans, followed by photos of the build.
 
-So the crowd of citizens, male and female, having closed their houses and
-shops, thronged from every direction, at early morn, towards some one of
-the three spots designated.
+{{< gallery >}}
+{{< photo src="/images/history/shop-plans-floor-plan.jpg" caption="Original building plans: floor plan, 36 by 24 feet with an engine room at the back" >}}
+{{< photo src="/images/history/shop-plans-side-and-front.jpg" caption="Original building plans: right side view, front view and floor plan" >}}
+{{< /gallery >}}
 
-Each had made his choice; one, the bonfire; another, the maypole; another,
-the mystery play. It must be stated, in honor of the good sense of the
-loungers of Paris, that the greater part of this crowd directed their
-steps towards the bonfire, which was quite in season, or towards the
-mystery play, which was to be presented in the grand hall of the Palais de
-Justice (the courts of law), which was well roofed and walled; and that
-the curious left the poor, scantily flowered maypole to shiver all alone
-beneath the sky of January, in the cemetery of the Chapel of Braque.
+{{< gallery >}}
+{{< photo src="/images/history/shop-build-01.jpg" caption="Raising the first wall" >}}
+{{< photo src="/images/history/shop-build-02.jpg" caption="Walls going up" >}}
+{{< photo src="/images/history/shop-build-05.jpg" caption="Starting on the roof trusses" >}}
+{{< photo src="/images/history/shop-build-06.jpg" caption="Trusses going up" >}}
+{{< photo src="/images/history/shop-build-03.jpg" caption="Framing done, with the lumber for the siding" >}}
+{{< photo src="/images/history/shop-build-07.jpg" caption="The finished frame" >}}
+{{< photo src="/images/history/shop-build-09.jpg" caption="The finished frame from the road" >}}
+{{< photo src="/images/history/shop-build-04.jpg" caption="Up the ladders putting the siding on" >}}
+{{< photo src="/images/history/shop-build-08.jpg" caption="Siding and roof strapping going on" >}}
+{{< /gallery >}}
 
-The populace thronged the avenues of the law courts in particular, because
-they knew that the Flemish ambassadors, who had arrived two days
-previously, intended to be present at the representation of the mystery,
-and at the election of the Pope of the Fools, which was also to take place
-in the grand hall.
+# The shop in its early years
 
-It was no easy matter on that day, to force one’s way into that grand
-hall, although it was then reputed to be the largest covered enclosure in
-the world (it is true that Sauval had not yet measured the grand hall of
-the Château of Montargis). The palace place, encumbered with people,
-offered to the curious gazers at the windows the aspect of a sea; into
-which five or six streets, like so many mouths of rivers, discharged every
-moment fresh floods of heads. The waves of this crowd, augmented
-incessantly, dashed against the angles of the houses which projected here
-and there, like so many promontories, into the irregular basin of the
-place. In the centre of the lofty Gothic* façade of the palace, the grand
-staircase, incessantly ascended and descended by a double current, which,
-after parting on the intermediate landing-place, flowed in broad waves
-along its lateral slopes,—the grand staircase, I say, trickled
-incessantly into the place, like a cascade into a lake. The cries, the
-laughter, the trampling of those thousands of feet, produced a great noise
-and a great clamor. From time to time, this noise and clamor redoubled;
-the current which drove the crowd towards the grand staircase flowed
-backwards, became troubled, formed whirlpools. This was produced by the
-buffet of an archer, or the horse of one of the provost’s sergeants, which
-kicked to restore order; an admirable tradition which the provostship has
-bequeathed to the constablery, the constablery to the _maréchaussée_,
-the _maréchaussée_ to our _gendarmeri_ of Paris.
+{{< gallery >}}
+{{< photo src="/images/history/shop-early-02.jpg" caption="Working the forges in the new shop" >}}
+{{< photo src="/images/history/shop-early-05.jpg" caption="Fire going under the big hood" >}}
+{{< photo src="/images/history/shop-early-03.jpg" caption="Visitors lining up at the shop doors" >}}
+{{< photo src="/images/history/shop-early-04.jpg" caption="A busy show day at the shop" >}}
+{{< /gallery >}}
+
+*Building and early shop photos from Gerry's collection.*
+
+The rest of the photos below come from the gallery pages Don Sinclaire put together for our original website around 2010 and 2011.
+
+# Members and activities
+
+{{< gallery >}}
+{{< photo src="/images/history/carl-bill-bob-john.jpg" caption="Carl, Bill, Bob and John" >}}
+{{< photo src="/images/history/carl-bernard-scott.jpg" caption="Carl, Bernard and Scott" >}}
+{{< photo src="/images/history/johns-hammer-in-1.jpg" caption="At John's hammer-in" >}}
+{{< photo src="/images/history/johns-hammer-in-2.jpg" caption="At John's hammer-in" >}}
+{{< photo src="/images/history/johns-hammer-in-3.jpg" caption="At John's hammer-in" >}}
+{{< photo src="/images/history/johns-hammer-in-4.jpg" caption="At John's hammer-in" >}}
+{{< photo src="/images/history/johns-hammer-in-5.jpg" caption="At John's hammer-in" >}}
+{{< photo src="/images/history/rhett-power-hammer.jpg" caption="Rhett using Roseann's power hammer" >}}
+{{< photo src="/images/history/john-and-jerry.jpg" caption="John and Jerry" >}}
+{{< /gallery >}}
+
+# The Leduc shop
+
+{{< gallery >}}
+{{< photo src="/images/history/leduc-shop-1.jpg" caption="The Leduc shop" >}}
+{{< photo src="/images/history/leduc-shop-2.jpg" caption="The Leduc shop" >}}
+{{< photo src="/images/history/leduc-shop-hilton.jpg" caption="Hilton at the Leduc shop" >}}
+{{< photo src="/images/history/leduc-shop-jack.jpg" caption="Jack at the Leduc shop" >}}
+{{< photo src="/images/history/leduc-shop-jerry.jpg" caption="Jerry at the Leduc shop" >}}
+{{< photo src="/images/history/leduc-shop-scott.jpg" caption="Scott at the Leduc shop" >}}
+{{< photo src="/images/history/hilton.jpg" caption="Hilton" >}}
+{{< /gallery >}}
+
+# Demos in 2011
+
+{{< gallery >}}
+{{< photo src="/images/history/demo-george-pegg-garden-2011.jpg" caption="At the George Pegg Botanic Garden" >}}
+{{< photo src="/images/history/demo-dennis-mayerthorpe-2011.jpg" caption="Dennis at Mayerthorpe" >}}
+{{< photo src="/images/history/demo-scott-rochfort-bridge-2011.jpg" caption="Scott at Rochfort Bridge" >}}
+{{< photo src="/images/history/demo-portable-setup-2011.jpg" caption="Our portable setup for demos" >}}
+{{< /gallery >}}
+
+# Group projects
+
+Every so often the guild takes on a project together. In 2010 the group made a bird feeder for a raffle, and there's an earlier one from 2004 as well.
+
+{{< gallery >}}
+{{< photo src="/images/history/bird-feeder-1.jpg" caption="2010 bird feeder raffle" >}}
+{{< photo src="/images/history/bird-feeder-2.jpg" caption="2010 bird feeder raffle" >}}
+{{< photo src="/images/history/bird-feeder-3.jpg" caption="2010 bird feeder raffle" >}}
+{{< photo src="/images/history/bird-feeder-4.jpg" caption="2010 bird feeder raffle" >}}
+{{< photo src="/images/history/bird-feeder-parts-2004.jpg" caption="Parts for the 2004 bird feeder" >}}
+{{< /gallery >}}
+
+*Photos from our original website, © Don Sinclaire, 2011.*
