@@ -2,7 +2,7 @@
 title: "About"
 description: ""
 cascade:
-  featured_image: '/images/BlacksmithShop.jpg'
+  featured_image: '/images/home/BlacksmithShop.webp'
 ---
 ### Who We Are
 

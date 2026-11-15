@@ -2,7 +2,7 @@
 title: "Thank you to our supporters"
 date: 2026-11-15T12:00:00-07:00
 description: "The businesses and people who have helped the guild with donations of material, money and labour."
-thumbnail_image: "/images/BlacksmithShop.jpg"
+thumbnail_image: "/images/BlacksmithShop-small.webp"
 tags: []
 weight: 9
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "Membership"
-featured_image: '/images/BlacksmithShop.jpg'
+featured_image: '/images/home/BlacksmithShop.webp'
 ---
 ### WCBG Membership
 The WCBG is always looking to increase our membership and get more people involved in blacksmithing. Membership is open to everyone.

@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: '/images/BlacksmithShop.jpg'
+featured_image: '/images/home/BlacksmithShop.webp'
 ---
 
 [Click here for directions.](/info/how-to-find-us/)
